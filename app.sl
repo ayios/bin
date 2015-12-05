@@ -2,4 +2,4 @@
 
 () = evalfile (path_dirname (__FILE__) + "/../ayios/a");
 
-loadfrom ("ayios", "app", NULL, &on_eval_err);
+load.from ("ayios", "app", NULL;err_handler = &__err_handler__);
